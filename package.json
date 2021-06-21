@@ -1,0 +1,16 @@
+{
+  "name": "DDbot",
+  "version": "1.0.0",
+  "description": "Glow-botのdowndetector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Googlefan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
